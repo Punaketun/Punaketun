@@ -1632,7 +1632,7 @@ button:active,
 
 #logo {
   position: relative;
-  margin: 3em 1.5em 1.5em 1.5em;
+  margin: 10em 1.5em 1.5em 1.5em;
   min-height: 48px;
   cursor: default;
 }
